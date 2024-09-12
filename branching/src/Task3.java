@@ -10,7 +10,7 @@ public class Task3 {
         }
         else
 
-        System.out.println("Недопустимая операция!: Баланс " + balans);
+        System.out.println("Недопустимая операция! Баланс: " + balans);
 
 
     }
